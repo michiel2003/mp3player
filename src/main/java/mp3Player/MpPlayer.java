@@ -1,7 +1,6 @@
 package mp3Player;
 
 import java.io.File;
-import java.net.MalformedURLException;
 
 public class MpPlayer {
 	
